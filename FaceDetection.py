@@ -28,4 +28,5 @@ while(True):
         break
 
 cv.destroyAllWindows()
+
 cap.release()    
