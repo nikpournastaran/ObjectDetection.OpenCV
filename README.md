@@ -1,4 +1,3 @@
-# FingerDetection.OpenCV
 # Computer Vision Hub: Face & Hand Tracking 🚀
 
 This repository contains two real-time computer vision applications built with **OpenCV**, **Mediapipe**, and **CVZone**. These projects demonstrate the practical application of AI in human-computer interaction.
